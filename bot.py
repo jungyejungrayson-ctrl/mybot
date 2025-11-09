@@ -65,4 +65,4 @@ async def ask(ctx, *, question: str = None):
 
 # 실행
 if __name__ == "__main__":
-    bot.run(DISCORD_TOKEN)
+    bot.run(MTQzNjk0NTU2MDcyNzk4MjI3MQ.Gk63Ku.KrANa_0mp3Jk49SE3Cwz2ffmgBTsf71u4iYA_o)
